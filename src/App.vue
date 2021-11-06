@@ -129,6 +129,7 @@ export default {
   name: "App",
 
   data: () => ({
+    valid: true,
     dialog: false,
     dialogDelete: false,
     headers: [
